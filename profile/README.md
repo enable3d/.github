@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You like [**enable3d**](https://enable3d.io/)?  
+You like [**enable3d**](https://enable3d.github.io/)?  
 Support it via GitHub Sponsors: 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=social&logo=GitHub)](https://github.com/sponsors/yandeu)  
